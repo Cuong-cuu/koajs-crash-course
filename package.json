@@ -1,0 +1,18 @@
+{
+  "name": "koajs-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-ejs": "^4.3.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^12.0.0"
+  }
+}
